@@ -6,3 +6,4 @@ url: "https://cdower.github.io"
 markdown: kramdown
 plugins:
   - jekyll-feed
+logo: assets/images/logo.png
