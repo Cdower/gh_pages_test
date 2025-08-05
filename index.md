@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Welcome
+title: Fundraising
 image: /assets/images/crest.png
 ---
 
-# Phi Sigma Kapp Gamma Tettarton 75th Anniversary
+#  75th Anniversary Fundraising
 
 For the 75th anniversary of our chapter we are aiming to raise $750,000 for capital investments in the Chapter House and improving on going support of the Chapter.
