@@ -6,9 +6,7 @@ permalink: /contact/
 
 # Contact
 
-You can reach me at:
-
-- Email: you@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
+Contact the Phi Sigma Kappa Gamma Tetarton Alumni Association with questions.
+email: <pskalumnioftroyny@gmail.com>
 
 [Back to Home](/)

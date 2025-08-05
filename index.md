@@ -3,10 +3,6 @@ layout: home
 title: Welcome
 ---
 
-# Welcome to My Website
+# Phi Sigma Kapp Gamma Tettarton 75th Anniversary
 
-This site is built entirely with Markdown and hosted on [GitHub Pages](https://pages.github.com/).
-
-- ✅ Fast setup
-- 📝 Write in Markdown
-- 🚀 Auto-deploys from GitHub
+For the 75th anniversary of our chapter we are aiming to raise $750,000 for capital investments in the Chapter House and improving on going support of the Chapter.
