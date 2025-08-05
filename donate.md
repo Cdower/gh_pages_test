@@ -5,7 +5,7 @@ permalink: /donate/
 image: /assets/images/logo.png
 ---
 
-# Make a Donation
+
 For the 75th Anniversary of the Gamma Tetarton Chapter of Phi Sigma Kappa we are targetting a goal of $___,000 raised.
 
 ## Donate through a 501.C3 Qualified Entity
