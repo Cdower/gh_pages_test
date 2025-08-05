@@ -2,6 +2,7 @@
 layout: page
 title: Make a Donation
 permalink: /donate/
+image: /assets/images/crest.png
 ---
 
 # Make a Donation

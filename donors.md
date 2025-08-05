@@ -2,6 +2,7 @@
 layout: page
 title: Our Donors
 permalink: /donors/
+image: /assets/images/crest.png
 ---
 
 We would like to thank the following individuals and organizations for their contributions.
