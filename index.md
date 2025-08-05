@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Welcome
+image: /assets/images/crest.png
 ---
 
 # Phi Sigma Kapp Gamma Tettarton 75th Anniversary
