@@ -1,0 +1,8 @@
+title: My Website
+description: A simple Markdown-based website using GitHub Pages
+theme: minima
+baseurl: ""  # e.g. /repo-name if hosted in a subdirectory
+url: "https://yourusername.github.io"
+markdown: kramdown
+plugins:
+  - jekyll-feed
