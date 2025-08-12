@@ -10,9 +10,10 @@ This program could not be made possible without their support and generosity.
 If you would like your donation to remain anonymous or not have your name published please contact the alumni association and let them know.
 
 # 6th Degree Contribution Level Donors ($69,000 or more)
-All donors at this tier may choose to provision a plaque to name a bathroom stall of thier choice in the chapter house. Names subject to approval by the Board of the Alumni Association.
+All donors at this tier may choose to provision a plaque to name the room of choice in the chapter house. Names subject to approval by the Active Brothers and the Board of the Alumni Association.
 
 # 5th Degree Contribution Level Donors ($25,000-$68999)
+All donors at this tier may choose to provision a plaque to name the urinal, toilet or bathroom stall of thier choice in the chapter house. Names subject to approval by the Active Brothers and the Board of the Alumni Association.
 
 # 4th Degree Contribution Level Donors ($9001-$24999)
 
