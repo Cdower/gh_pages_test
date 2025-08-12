@@ -2,7 +2,7 @@
 layout: page
 title: Make a Donation
 permalink: /donate/
-image: /assets/images/logo.png
+image: assets/images/logo.png
 ---
 
 

@@ -2,7 +2,7 @@
 layout: page
 title: Our Donors
 permalink: /donors/
-image: /assets/images/logo.png
+image: assets/images/logo.png
 ---
 
 We would like to thank the following individuals and organizations for their contributions.

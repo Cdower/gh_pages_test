@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Fundraising
-image: /assets/images/logo.png
+image: assets/images/logo.png
 ---
 
 #  75th Anniversary Fundraising
